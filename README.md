@@ -1,4 +1,4 @@
-*Overview*
+# **Overview**
 
 The goal of this Project is to build and critically analyse supervised Machine Learning methods to predict the ratings of books based on their titles, authors, descriptions and other features. There are three levels of rating, 3, 4 and 5, for each book.
 
